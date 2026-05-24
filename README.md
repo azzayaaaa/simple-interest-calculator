@@ -7,3 +7,4 @@ A bash script that calculates simple interest based on principal, rate, and time
 
 ## Usage
 Run the script and enter the required values when prompted.
+.
